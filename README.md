@@ -1,6 +1,6 @@
 ﻿***SuperHeroes:*** 
 
-Project that exposes json endpoint about Superheroes.
+Project that exposes json endpoints about Superheroes.
 
 The application was developed using:
 
