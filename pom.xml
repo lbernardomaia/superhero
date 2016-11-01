@@ -7,6 +7,7 @@
 	<artifactId>superhero</artifactId>
 	<version>0.0.1</version>
 	<packaging>war</packaging>
+	<name>Spring Hero</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
